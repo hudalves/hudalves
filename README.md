@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back end`**
 
-Me chamo Hudson Alves, tenho 18 anos e sou natural de Arujá/SP. Atualmente, estou cursando Engenharia de Software na UMC. 
+ME chamo Hudson Alves, tenho 18 anos e sou natural de Arujá/SP. Atualmente, estou cursando Engenharia de Software na UMC. 
 
 ###  Linguagens e Tecnologias
 
