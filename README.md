@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Back end`**
 
-Me chamo Hudson Alves, tenho 18 anos e sou natural de Arujá/SP. Atualmente, estou cursando Engenharia de Software na UMC. 
+👋 Olá, eu sou Hudson Alves
+
+🎓 Estudante de Engenharia de Software  
+💻 Focado em desenvolvimento backend e Python  
+📚 Atualmente estudando Git, APIs e arquitetura de software
 
 ###  Linguagens e Tecnologias
 
