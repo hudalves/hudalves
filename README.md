@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Hudson Alves
 
-**`Desenvolvedor Back end`**
-
 👋 Olá, eu sou Hudson Alves
 
 🎓 Estudante de Engenharia de Software  
